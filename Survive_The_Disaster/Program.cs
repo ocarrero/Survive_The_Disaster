@@ -11,7 +11,7 @@ using Microsoft.Extensions.Logging;
 namespace Survive_The_Disaster
 
 {
-    // This one line is for the sole purpose of making sure I hit one hu
+    // This one line is for the sole purpose of making sure I hit one hun
     public class Program
     {
         public static void Main(string[] args)
