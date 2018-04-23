@@ -11,7 +11,7 @@ using Microsoft.Extensions.Logging;
 namespace Survive_The_Disaster
 
 {
-    // This one line is 
+    // This one line is f
     public class Program
     {
         public static void Main(string[] args)
