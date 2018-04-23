@@ -11,7 +11,7 @@ using Microsoft.Extensions.Logging;
 namespace Survive_The_Disaster
 
 {
-    // This one line is for the sole purp
+    // This one line is for the sole purpo
     public class Program
     {
         public static void Main(string[] args)
